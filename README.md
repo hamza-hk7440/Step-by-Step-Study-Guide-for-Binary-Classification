@@ -22,7 +22,7 @@ Predict heart disease presence as a binary target:
 ## Repository Contents
 
 - `heart_disease_dataset.csv`: main dataset used in the notebook
-- `heart_disease_dataset_ext.txt`: extended sample view of the dataset
+- `heart_disease_dataset_ext.txt`: extended sample view of the dataset(download CSV to Table extenssion to use it)
 - `missing_data_handling_guide.md`: missing data strategy reference
 - `work.ipynb`: full step by step analysis, EDA, modeling, and evaluation
 - `README.md`: this study guide
